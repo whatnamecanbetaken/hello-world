@@ -1,2 +1,5 @@
 # hello-world
-start a new test
+
+Hi Mr.Wang,
+
+  I'd like to help you to understand how the github works.
